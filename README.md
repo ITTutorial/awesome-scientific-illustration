@@ -25,6 +25,7 @@ Whether you're a PhD student, postdoc, or research scientist, this list will hel
 | Tool | Description | Pricing |
 |------|-------------|---------|
 | [SciDraw](https://sci-draw.com) | AI scientific illustration generator with SVG export. Text-to-image, sketch-to-image, and multi-round editing. | Freemium |
+| [Scientific Figure](https://scientificfigure.com) | AI generator for scientific illustrations, graphical abstracts, data plots, and conference posters from text, sketch, or PDF. SVG and PPTX export. | Freemium |
 | [BioRender](https://biorender.com) | Templates for life science illustrations | Paid |
 | [Midjourney](https://midjourney.com) | General AI image generation (needs prompting for science) | Paid |
 | [DALL-E](https://openai.com/dall-e) | OpenAI's image generator | Paid |
